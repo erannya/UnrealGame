@@ -14800,3 +14800,276 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.24-01.37.10:026][595]LogSavePackage: Moving 'D:/UneralGierka/Level1SylwiaMalmon/Saved/KulkaGIerka08A720D044F1D2AF7B9A44A7F8346861.tmp' to 'D:/UneralGierka/Level1SylwiaMalmon/Content/StarterContent/Maps/KulkaGIerka.umap'
 [2020.01.24-01.37.10:041][595]LogFileHelpers: Saving map 'KulkaGIerka' took 0.312
 [2020.01.24-01.37.35:979][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-01.39.23:528][465]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.24-01.39.27:484][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-01.40.02:461][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-01.40.02:552][623]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.40.02:560][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.40.02:560][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.40.02:560][623]PIE: New page: PIE session: KulkaGIerka (24 sty 2020, 03:40:02)
+[2020.01.24-01.40.02:561][623]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.40.02:566][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005260s)
+[2020.01.24-01.40.02:568][623]LogAIModule: Creating AISystem for world KulkaGIerka
+[2020.01.24-01.40.02:568][623]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2020.01.24-01.40.02:568][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka to /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka (0.007001s)
+[2020.01.24-01.40.02:608][623]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.01.24-01.40.02:688][623]LogInit: XAudio2 using 'Głośniki (ESI MAYA44 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.24-01.40.02:698][623]LogInit: FAudioDevice initialized.
+[2020.01.24-01.40.02:706][623]LogLoad: Game class is 'GameModeBase'
+[2020.01.24-01.40.02:707][623]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka up for play (max tick rate 0) at 2020.01.24-02.40.02
+[2020.01.24-01.40.02:707][623]LogWorld: Bringing up level for play took: 0.000848
+[2020.01.24-01.40.02:707][623]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.01.24-01.40.02:710][623]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka -0,4
+[2020.01.24-01.40.02:710][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.40.19:306][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.40.19:306][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.40.19:306][593]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.40.19:307][593]LogWorld: UWorld::CleanupWorld for KulkaGIerka, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.40.19:323][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.40.19:323][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.40.19:364][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.40.19:369][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.01.24-01.40.19:421][595]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.01.24-01.41.45:925][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-01.42.37:567][761]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.24-01.46.53:989][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.24-01.46.56:061][915]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.24-01.47.17:703][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.24-01.47.20:477][718]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.24-01.48.13:924][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.24-01.48.14:163][ 15]LogSavePackage: Moving 'D:/UneralGierka/Level1SylwiaMalmon/Saved/KulkaGIerka_Auto008FD8F61498FDC760598A58A2B946FC5.tmp' to 'D:/UneralGierka/Level1SylwiaMalmon/Saved/Autosaves/Game/StarterContent/Maps/KulkaGIerka_Auto0.umap'
+[2020.01.24-01.48.14:166][ 15]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/KulkaGIerka' took 0.279
+[2020.01.24-01.48.14:166][ 15]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.279
+[2020.01.24-01.48.51:867][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-01.50.23:080][335]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_GetActorRotation' [Nie można odnaleźć elementu.]
+[2020.01.24-01.54.45:924][425]BlueprintLog: New page: Compile KulkaGIerka
+[2020.01.24-01.54.46:178][425]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.01.24-01.54.48:910][616]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.54.48:918][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.54.48:918][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.54.48:918][616]PIE: New page: PIE session: KulkaGIerka (24 sty 2020, 03:54:48)
+[2020.01.24-01.54.48:918][616]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.54.48:923][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004245s)
+[2020.01.24-01.54.48:924][616]LogAIModule: Creating AISystem for world KulkaGIerka
+[2020.01.24-01.54.48:924][616]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2020.01.24-01.54.48:924][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka to /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka (0.005701s)
+[2020.01.24-01.54.48:961][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.01.24-01.54.49:060][616]LogInit: XAudio2 using 'Głośniki (ESI MAYA44 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.24-01.54.49:069][616]LogInit: FAudioDevice initialized.
+[2020.01.24-01.54.49:078][616]LogLoad: Game class is 'GameModeBase'
+[2020.01.24-01.54.49:079][616]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka up for play (max tick rate 0) at 2020.01.24-02.54.49
+[2020.01.24-01.54.49:079][616]LogWorld: Bringing up level for play took: 0.000816
+[2020.01.24-01.54.49:080][616]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.01.24-01.54.49:082][616]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka -0,027
+[2020.01.24-01.54.49:082][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.54.52:614][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.54.52:614][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.54.52:615][910]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.54.52:615][910]LogWorld: UWorld::CleanupWorld for KulkaGIerka, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.54.52:626][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.54.52:626][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.54.52:667][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.54.52:672][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.01.24-01.54.52:763][912]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.01.24-01.54.56:656][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-01.55.05:200][738]BlueprintLog: New page: Compile KulkaGIerka
+[2020.01.24-01.55.05:449][738]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.01.24-01.55.06:248][803]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.55.06:256][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.06:256][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.55.06:256][803]PIE: New page: PIE session: KulkaGIerka (24 sty 2020, 03:55:06)
+[2020.01.24-01.55.06:257][803]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.55.06:261][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004011s)
+[2020.01.24-01.55.06:262][803]LogAIModule: Creating AISystem for world KulkaGIerka
+[2020.01.24-01.55.06:262][803]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2020.01.24-01.55.06:262][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka to /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka (0.005473s)
+[2020.01.24-01.55.06:300][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.01.24-01.55.06:380][803]LogInit: XAudio2 using 'Głośniki (ESI MAYA44 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.24-01.55.06:388][803]LogInit: FAudioDevice initialized.
+[2020.01.24-01.55.06:395][803]LogLoad: Game class is 'GameModeBase'
+[2020.01.24-01.55.06:397][803]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka up for play (max tick rate 0) at 2020.01.24-02.55.06
+[2020.01.24-01.55.06:397][803]LogWorld: Bringing up level for play took: 0.000764
+[2020.01.24-01.55.06:397][803]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.01.24-01.55.06:399][803]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka -0,71
+[2020.01.24-01.55.06:400][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.09:604][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.09:604][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.55.09:604][ 70]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.55.09:605][ 70]LogWorld: UWorld::CleanupWorld for KulkaGIerka, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.55.09:619][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.55.09:620][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.09:660][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.55.09:665][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.01.24-01.55.09:736][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.01.24-01.55.11:544][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-01.55.25:062][361]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.55.25:069][361]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.25:069][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.55.25:069][361]PIE: New page: PIE session: KulkaGIerka (24 sty 2020, 03:55:25)
+[2020.01.24-01.55.25:070][361]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.55.25:074][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004193s)
+[2020.01.24-01.55.25:075][361]LogAIModule: Creating AISystem for world KulkaGIerka
+[2020.01.24-01.55.25:076][361]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2020.01.24-01.55.25:076][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka to /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka (0.005728s)
+[2020.01.24-01.55.25:111][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.01.24-01.55.25:190][361]LogInit: XAudio2 using 'Głośniki (ESI MAYA44 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.24-01.55.25:198][361]LogInit: FAudioDevice initialized.
+[2020.01.24-01.55.25:205][361]LogLoad: Game class is 'GameModeBase'
+[2020.01.24-01.55.25:207][361]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka up for play (max tick rate 0) at 2020.01.24-02.55.25
+[2020.01.24-01.55.25:207][361]LogWorld: Bringing up level for play took: 0.000779
+[2020.01.24-01.55.25:207][361]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2020.01.24-01.55.25:210][361]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka 0,1
+[2020.01.24-01.55.25:210][361]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.28:948][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.28:948][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.55.28:948][669]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.55.28:948][669]LogWorld: UWorld::CleanupWorld for KulkaGIerka, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.55.28:963][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.55.28:963][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.29:003][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.55.29:008][669]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.01.24-01.55.29:081][671]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2020.01.24-01.55.30:275][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-01.55.42:359][785]BlueprintLog: New page: Compile KulkaGIerka
+[2020.01.24-01.55.42:610][785]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.01.24-01.55.43:257][838]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.55.43:265][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.43:265][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.55.43:265][838]PIE: New page: PIE session: KulkaGIerka (24 sty 2020, 03:55:43)
+[2020.01.24-01.55.43:265][838]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.55.43:269][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003927s)
+[2020.01.24-01.55.43:271][838]LogAIModule: Creating AISystem for world KulkaGIerka
+[2020.01.24-01.55.43:271][838]LogPlayLevel: PIE: World Init took: (0.001757s)
+[2020.01.24-01.55.43:271][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka to /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka (0.005839s)
+[2020.01.24-01.55.43:309][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.01.24-01.55.43:388][838]LogInit: XAudio2 using 'Głośniki (ESI MAYA44 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.24-01.55.43:397][838]LogInit: FAudioDevice initialized.
+[2020.01.24-01.55.43:408][838]LogLoad: Game class is 'GameModeBase'
+[2020.01.24-01.55.43:409][838]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka up for play (max tick rate 0) at 2020.01.24-02.55.43
+[2020.01.24-01.55.43:409][838]LogWorld: Bringing up level for play took: 0.000771
+[2020.01.24-01.55.43:409][838]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.01.24-01.55.43:412][838]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka 0,302
+[2020.01.24-01.55.43:412][838]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.50:093][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.50:093][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.55.50:093][401]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.55.50:093][401]LogWorld: UWorld::CleanupWorld for KulkaGIerka, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.55.50:109][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.55.50:109][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.55.50:149][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.55.50:154][401]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.01.24-01.55.50:224][403]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.01.24-01.55.51:540][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-01.56.02:182][395]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.56.02:189][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.56.02:189][395]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.24-01.56.02:190][395]LogPlayLevel: [PlayLevel] Compiling KulkaGIerka before play...
+[2020.01.24-01.56.02:441][395]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.01.24-01.56.02:441][395]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2020.01.24-01.56.02:441][395]PIE: New page: PIE session: KulkaGIerka (24 sty 2020, 03:56:02)
+[2020.01.24-01.56.02:442][395]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.56.02:446][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004173s)
+[2020.01.24-01.56.02:447][395]LogAIModule: Creating AISystem for world KulkaGIerka
+[2020.01.24-01.56.02:447][395]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2020.01.24-01.56.02:448][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka to /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka (0.005534s)
+[2020.01.24-01.56.02:486][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.01.24-01.56.02:565][395]LogInit: XAudio2 using 'Głośniki (ESI MAYA44 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.24-01.56.02:574][395]LogInit: FAudioDevice initialized.
+[2020.01.24-01.56.02:586][395]LogLoad: Game class is 'GameModeBase'
+[2020.01.24-01.56.02:588][395]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka up for play (max tick rate 0) at 2020.01.24-02.56.02
+[2020.01.24-01.56.02:588][395]LogWorld: Bringing up level for play took: 0.000821
+[2020.01.24-01.56.02:588][395]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2020.01.24-01.56.02:591][395]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka -0,518
+[2020.01.24-01.56.02:591][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.56.04:936][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.56.04:936][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.56.04:936][592]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.56.04:936][592]LogWorld: UWorld::CleanupWorld for KulkaGIerka, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.56.04:948][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.56.04:948][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.56.04:989][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.56.04:994][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.01.24-01.56.05:065][594]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.01.24-01.56.06:771][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-01.56.06:852][744]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.56.06:859][744]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.56.06:859][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.56.06:859][744]PIE: New page: PIE session: KulkaGIerka (24 sty 2020, 03:56:06)
+[2020.01.24-01.56.06:859][744]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.56.06:863][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003969s)
+[2020.01.24-01.56.06:865][744]LogAIModule: Creating AISystem for world KulkaGIerka
+[2020.01.24-01.56.06:865][744]LogPlayLevel: PIE: World Init took: (0.001569s)
+[2020.01.24-01.56.06:865][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka to /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka (0.005700s)
+[2020.01.24-01.56.06:902][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.01.24-01.56.06:980][744]LogInit: XAudio2 using 'Głośniki (ESI MAYA44 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.24-01.56.06:988][744]LogInit: FAudioDevice initialized.
+[2020.01.24-01.56.06:994][744]LogLoad: Game class is 'GameModeBase'
+[2020.01.24-01.56.06:996][744]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka up for play (max tick rate 0) at 2020.01.24-02.56.06
+[2020.01.24-01.56.06:996][744]LogWorld: Bringing up level for play took: 0.000782
+[2020.01.24-01.56.06:996][744]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2020.01.24-01.56.06:999][744]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka -0,111
+[2020.01.24-01.56.06:999][744]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.56.10:717][ 56]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.56.10:717][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.56.10:717][ 56]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.56.10:717][ 56]LogWorld: UWorld::CleanupWorld for KulkaGIerka, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.56.10:731][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.56.10:731][ 56]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.56.10:772][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.56.10:776][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.01.24-01.56.10:845][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.01.24-01.56.12:948][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-01.58.48:755][593]BlueprintLog: New page: Compile KulkaGIerka
+[2020.01.24-01.58.49:013][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.01.24-01.58.49:499][630]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.24-01.58.49:506][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.58.49:507][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.24-01.58.49:507][630]PIE: New page: PIE session: KulkaGIerka (24 sty 2020, 03:58:49)
+[2020.01.24-01.58.49:507][630]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.58.49:511][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004353s)
+[2020.01.24-01.58.49:513][630]LogAIModule: Creating AISystem for world KulkaGIerka
+[2020.01.24-01.58.49:514][630]LogPlayLevel: PIE: World Init took: (0.002217s)
+[2020.01.24-01.58.49:514][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka to /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka (0.006729s)
+[2020.01.24-01.58.49:551][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.01.24-01.58.49:631][630]LogInit: XAudio2 using 'Głośniki (ESI MAYA44 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.24-01.58.49:640][630]LogInit: FAudioDevice initialized.
+[2020.01.24-01.58.49:649][630]LogLoad: Game class is 'GameModeBase'
+[2020.01.24-01.58.49:650][630]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka.KulkaGIerka up for play (max tick rate 0) at 2020.01.24-02.58.49
+[2020.01.24-01.58.49:651][630]LogWorld: Bringing up level for play took: 0.000852
+[2020.01.24-01.58.49:651][630]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2020.01.24-01.58.49:653][630]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka 0,544
+[2020.01.24-01.58.49:654][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.58.56:927][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.58.56:928][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.58.56:928][223]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_KulkaGIerka
+[2020.01.24-01.58.56:928][223]LogWorld: UWorld::CleanupWorld for KulkaGIerka, bSessionEnded=true, bCleanupResources=true
+[2020.01.24-01.58.56:940][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.24-01.58.56:940][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka' with GeneratedClass '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka_C' with ClassGeneratedBy '/Game/StarterContent/Maps/KulkaGIerka.KulkaGIerka:PersistentLevel.KulkaGIerka'
+[2020.01.24-01.58.56:982][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.24-01.58.56:986][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.01.24-01.58.57:059][225]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.01.24-01.58.59:317][416]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.24-01.58.59:324][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/KulkaGIerka" FILE="D:/UneralGierka/Level1SylwiaMalmon/Content/StarterContent/Maps/KulkaGIerka.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-01.58.59:360][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.01.24-01.58.59:624][416]LogSavePackage: Moving 'D:/UneralGierka/Level1SylwiaMalmon/Saved/KulkaGIerka7998FB6C4ACB2A16FBF794813C276D4D.tmp' to 'D:/UneralGierka/Level1SylwiaMalmon/Content/StarterContent/Maps/KulkaGIerka.umap'
+[2020.01.24-01.59.12:832][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-02.00.27:775][568]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.24-02.00.36:976][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-02.00.38:096][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-02.01.01:734][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-02.01.01:848][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/KulkaGIerka" FILE="D:/UneralGierka/Level1SylwiaMalmon/Content/StarterContent/Maps/KulkaGIerka.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-02.01.01:890][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.01.24-02.01.02:139][746]LogSavePackage: Moving 'D:/UneralGierka/Level1SylwiaMalmon/Saved/KulkaGIerkaB9F08E7946362D601FA25F89A1C05646.tmp' to 'D:/UneralGierka/Level1SylwiaMalmon/Content/StarterContent/Maps/KulkaGIerka.umap'
+[2020.01.24-02.01.06:024][987]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.24-02.01.07:733][113]BlueprintLog: New page: Compile KulkaGIerka
+[2020.01.24-02.01.07:982][113]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.01.24-02.01.08:849][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/KulkaGIerka" FILE="D:/UneralGierka/Level1SylwiaMalmon/Content/StarterContent/Maps/KulkaGIerka.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-02.01.08:889][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.01.24-02.01.09:136][178]LogSavePackage: Moving 'D:/UneralGierka/Level1SylwiaMalmon/Saved/KulkaGIerka87448BD843773F1BA3C063A5BE0A0DD7.tmp' to 'D:/UneralGierka/Level1SylwiaMalmon/Content/StarterContent/Maps/KulkaGIerka.umap'
+[2020.01.24-02.01.09:151][178]LogFileHelpers: Saving map 'KulkaGIerka' took 0.302
+[2020.01.24-02.01.10:534][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-02.01.11:875][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.24-02.01.12:007][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/KulkaGIerka" FILE="D:/UneralGierka/Level1SylwiaMalmon/Content/StarterContent/Maps/KulkaGIerka.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.24-02.01.12:046][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.01.24-02.01.12:295][458]LogSavePackage: Moving 'D:/UneralGierka/Level1SylwiaMalmon/Saved/KulkaGIerkaC4E724B84FF9C804BB59ECABC8AFD3CA.tmp' to 'D:/UneralGierka/Level1SylwiaMalmon/Content/StarterContent/Maps/KulkaGIerka.umap'
+[2020.01.24-02.01.13:249][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
